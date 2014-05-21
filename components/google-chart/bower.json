@@ -1,0 +1,8 @@
+{
+  "name": "google-chart",
+  "dependencies": {
+    "polymer": "Polymer/polymer#master",
+    "core-ajax": "Polymer/core-ajax#master",
+    "google-apis": "PolymerLabs/google-apis#master"
+  }
+}

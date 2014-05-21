@@ -1,0 +1,19 @@
+{
+  "name": "google-chart",
+  "dependencies": {
+    "polymer": "Polymer/polymer#master",
+    "core-ajax": "Polymer/core-ajax#master",
+    "google-apis": "PolymerLabs/google-apis#master"
+  },
+  "homepage": "https://github.com/GoogleWebComponents/google-chart",
+  "_release": "73fa672d30",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "73fa672d30ec5f6bafc5c336e78917cb95c459cc"
+  },
+  "_source": "git://github.com/GoogleWebComponents/google-chart.git",
+  "_target": "master",
+  "_originalSource": "GoogleWebComponents/google-chart",
+  "_direct": true
+}
